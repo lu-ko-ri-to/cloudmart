@@ -1,0 +1,21 @@
+form{
+  background-color: lightblue;
+  width: 40%;
+  padding: 30px;
+  margin: 0 auto;
+  box-shadow: 12px 12px 12px lightgray;
+}
+legend{
+  font-weight: bolder;
+  text-align: center;
+  text-shadow: 12px 12px 12px deeppink;
+}
+input[type=text],input[type=email],input[type=date],input[type=tel],input[type=number]{
+  width: 100%;
+  height: 40px;
+  border-radius: 25px;
+  border: none;
+  margin-top: 20px;
+  box-shadow: 12px 12px 12px lightcoral;
+
+}
